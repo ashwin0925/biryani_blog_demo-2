@@ -1,0 +1,124 @@
+.body {
+  font-family: 'Mansalva', cursive;
+}
+
+.header {
+  background-color: black;
+  padding: 7px;
+}
+
+.postion {
+  position: fixed;
+  width: 100%;
+
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin:0 auto;
+}
+
+.navigation {
+  padding: 16px 0;
+  float: right;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+.image1 {
+  width: 5%;
+}
+
+/*section*/
+
+.head {
+  font-size: 40px;
+  text-align: center;
+  padding: 20px 0;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background: #FAFFFC;
+    margin-bottom: 20px;
+  }
+
+.bck-col {
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("../media/bck.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position:center; 
+  height: 700px;
+}
+
+.para {
+    color:white;
+    font-size: 25px;
+    letter-spacing: 1.5;
+    line-height: 1.5;
+    padding: 40px 0px;
+  }
+
+.sub-head {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.types {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+
+.biryani {
+  padding-bottom: 20px;
+}
+
+.item {
+    padding : 10px 0;
+    margin-right:10px;
+  }
+
+.pic1 {
+    width: 290px;
+    height: 250px;
+  }
+img {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+img:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+span {
+  color: red;
+}
+
+/*Footer*/
+
+.footer {
+  background :black;
+  padding: 20px;
+}
+
+.footer-name {
+  color: white;
+
+}
+
+.left {
+  float: right;
+}
+.nav-foot {
+  margin-left: 20px;
+  color: white;
+}

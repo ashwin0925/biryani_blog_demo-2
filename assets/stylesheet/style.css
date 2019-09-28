@@ -1,0 +1,182 @@
+
+/*My Style*/
+
+.headin-1 {
+	text-align: center;
+	font-size: 50px;
+	padding-top: 50px;
+
+}
+
+.body {
+	font-family: 'Mansalva', cursive;
+}
+
+.img {
+	width: 400px;
+	height: 400px;
+}
+
+.image {
+	text-align: center;
+	
+}
+
+.button {
+	text-align: center;
+	margin-bottom: 72px;
+}
+
+.btn {
+	text-decoration: none;
+	border: 0px solid;
+	background: black;
+	border-radius: 20px;
+	padding: 10px 30px;
+	color: white;
+	font-size: 25px;
+}
+
+span {
+	color: red;
+}
+
+/*Footer*/
+
+.footer {
+	background :black;
+	padding: 20px;
+}
+
+.footer-name {
+	color: white;
+
+}
+
+.left {
+	float: right;
+}
+.nav-foot {
+	margin-left: 20px;
+	color: white;
+}
+.wrapper {
+	max-width: 1200px;
+	margin:0 auto;
+}
+
+/*About style*/
+
+.header {
+	background-color: black;
+	padding: 7px;
+}
+
+.navigation {
+	padding: 16px 0;
+	float: right;
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.postion {
+	position: fixed;
+	width: 100%;
+
+}
+
+.image1 {
+	width: 5%;
+}
+
+
+
+/*about section*/
+
+.container {
+	display:inline-flex;
+	background: white;
+	padding:30px 60px 0px 60px;
+
+}
+
+.logobbc {
+	margin-top: 65px;
+	margin-left: 50px;
+}
+
+.item{
+	margin-top: 20px;
+	padding-left: 50px;
+	width: 70%;
+}
+
+.pic2{
+	width: 50%;
+}
+
+.head3 {
+	color:black;
+	font-size: 25px;
+	font-weight:700;
+	line-height: 1.5;
+	padding-bottom: 20px;
+}
+
+.para2 {
+  	color: black;
+  	line-height: 2;
+  	font-size: 16px;
+  	margin-bottom: 20px;
+  }
+
+hr {
+	border: 1px solid grey;
+	width: 1200px;
+
+}
+
+.item1 {
+	margin:8% 0 0 75%;
+
+}
+
+.input {
+	width: 200%;
+  border: 0;
+  box-shadow: none;
+  outline: 0;
+  border-bottom: 1px solid #777777;
+  padding: 16px 0;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.msg {
+	resize: none;
+}
+
+.btn1 {
+	padding: 7px 20px;
+	font-size: 18px;
+}
+
+.button1 {
+	margin: 30px 0;
+}
+
+.cont {
+	display: flex;
+}
+
+.main-item {
+margin-right: 38%;
+}
+
+.img-cont {
+	margin-top: 30px;
+}

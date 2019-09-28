@@ -1,0 +1,98 @@
+.body {
+  font-family: 'Mansalva', cursive;
+}
+
+.header {
+  background-color: black;
+  padding: 7px;
+}
+
+.postion {
+  position: fixed;
+  width: 100%;
+
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin:0 auto;
+}
+
+.navigation {
+  padding: 16px 0;
+  float: right;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+.image1 {
+  width: 5%;
+}
+
+/*section*/
+
+.head {
+  font-size: 40px;
+  text-align: center;
+  padding: 40px 0;
+}
+.container {
+    display: flex;
+    background: #FAFFFC;
+    border-bottom: 1px solid #182945;
+    margin-bottom: 20px;
+  }
+
+  .item {
+    /*background: #9EDDEB;*/
+    padding: 40px 0;
+    margin:0 10px;
+    /*ont-size: 34px;*/
+    /*margin: 10px;*/
+  }
+
+  .pic1 {
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;
+  }
+
+.para-head {
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+span {
+  color: red;
+}
+.para {
+  width: 400px;
+  font-size: 20px;
+}
+
+.map {
+  width: 310px;
+  height: 300px;
+}
+/*Footer*/
+
+.footer {
+  background :black;
+  padding: 20px;
+}
+
+.footer-name {
+  color: white;
+
+}
+
+.left {
+  float: right;
+}
+.nav-foot {
+  margin-left: 20px;
+  color: white;
+}
